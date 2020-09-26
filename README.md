@@ -1,6 +1,6 @@
-##instagram_ui
+## instagram_ui
 
-##tools used
+## tools used
 
 1. react
 2. react-boostrap
