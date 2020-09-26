@@ -1,0 +1,22 @@
+@media screen and (max-width: 768px) {
+  #content_pic1,
+  #content_pic2,
+  #content_pic3,
+  #content_pic4 {
+    height: 56px;
+    width: 56px;
+  }
+  .mt-2 {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 769px) {
+  #content_pic1,
+  #content_pic2,
+  #content_pic3,
+  #content_pic4 {
+    height: 77px;
+    width: 77px;
+  }
+}

@@ -1,0 +1,17 @@
+/* #content_highlights{
+    overflow-x: auto;
+    white-space: nowrap;
+} */
+
+#Content_Image {
+  height: 150px;
+  width: 150px;
+  margin-left: 20%;
+}
+
+@media (max-width: 767px) {
+  #Content_Image {
+    height: 77px;
+    width: 77px;
+  }
+}

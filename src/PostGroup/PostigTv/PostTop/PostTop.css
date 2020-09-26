@@ -1,0 +1,9 @@
+@media screen and (max-width: 600px) {
+  #PostTopRow {
+    font-size: 12px;
+  }
+}
+
+#PostTopRow {
+  color: black;
+}
